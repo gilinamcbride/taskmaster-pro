@@ -17,6 +17,8 @@ Open website and add task with green “Add Task” button. Move the task betwee
 
 ## Application
 
+![screenshot](./assets/images/screenshot.png)
+
 [Link to Deployed Application](https://gilinamcbride.github.io/taskmaster-pro/)
 
 ## Questions?
